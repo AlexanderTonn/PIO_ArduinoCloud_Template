@@ -1,0 +1,9 @@
+[submodule "lib/Arduino_IOclass"]
+	path = lib/Arduino_IOclass
+	url = https://github.com/AlexanderTonn/Arduino_IOclass.git
+[submodule "lib/ArduinoIoTCloud"]
+	path = lib/ArduinoIoTCloud
+	url = https://github.com/arduino-libraries/ArduinoIoTCloud.git
+[submodule "lib/Arduino_ConnectionHandler"]
+	path = lib/Arduino_ConnectionHandler
+	url = https://github.com/arduino-libraries/Arduino_ConnectionHandler.git
